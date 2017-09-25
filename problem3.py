@@ -1,0 +1,5 @@
+equation = input("enter your full name")
+name = equation.split(" ")
+print("first name:" + name[0])
+print("middle name:" + name[1])
+print("last name:" + name[2])
